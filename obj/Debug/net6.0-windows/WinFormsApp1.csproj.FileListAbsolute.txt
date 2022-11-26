@@ -1,0 +1,433 @@
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Pagos.resources
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Pagos.resources
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUPOINT\RiderProjects\Forms\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\COMPUPOINT\RiderProjects\Forms\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\COMPUPOINT\RiderProjects\Forms\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\COMPUPOINT\RiderProjects\Forms\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUPOINT\RiderProjects\Forms\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.CrearCaja.resources
+C:\Users\COMPUPOINT\RiderProjects\Forms\obj\Debug\net6.0-windows\WinFormsApp1.ModificarCaja.resources
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.CrearCaja.resources
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.ModificarCaja.resources
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Pagos.resources
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lauta\OneDrive\Documentos\GitHub\Forms\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.CrearCaja.resources
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.ModificarCaja.resources
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.Pagos.resources
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lucia\Desktop\Plataformas de Desarrollo\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Plataformas -LU BE\Forms\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Usuario\source\repos\Forms\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Usuario\source\repos\Forms\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Usuario\source\repos\Forms\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Usuario\source\repos\Forms\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Usuario\source\repos\Forms\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Forms\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUPOINT\source\repos\BancoC\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\COMPUPOINT\source\repos\BancoC\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\COMPUPOINT\source\repos\BancoC\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\COMPUPOINT\source\repos\BancoC\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\BancoC\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\COMPUPOINT\source\repos\BancoC\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\BancoC\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\COMPUPOINT\source\repos\BancoCLula\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\COMPUPOINT\source\repos\BancoCLula\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Banco\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Admin.resources
+C:\Users\COMPUPOINT\source\repos\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Admin.resources
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\COMPUPOINT\source\repos\Banco\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Admin.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\Ultimo\24-11\Banco\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lucia\Desktop\Banco\Banco\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Admin.resources
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lucia\Desktop\Banco\Banco\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

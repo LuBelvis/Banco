@@ -1,0 +1,10 @@
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\HomeBankingForms.csproj.AssemblyReference.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Log.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\HomeBankingForms.Properties.Resources.resources
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\HomeBankingForms.csproj.GenerateResource.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\HomeBankingForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\HomeBankingForms.AssemblyInfoInputs.cache
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\HomeBankingForms.AssemblyInfo.cs
+C:\Users\lourd\OneDrive\Escritorio\Da Vinci\2022\2do Cuatrimestre\Plataforma de Desarrollo\WinFormsApp1\obj\Debug\net6.0-windows\HomeBankingForms.csproj.CoreCompileInputs.cache
